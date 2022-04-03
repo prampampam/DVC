@@ -1,4 +1,4 @@
 outs:
-- md5: 3ecd56d48d52f8f294fa7a2e96a6570a
-  size: 16
+- md5: 88da3a35217f6cc9e46dec3d741ad805
+  size: 38
   path: model.txt
