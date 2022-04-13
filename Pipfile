@@ -5,6 +5,9 @@ name = "pypi"
 
 [packages]
 dvc = "*"
+ipykernel = "*"
+jupyter-contrib-nbextensions = "*"
+jupyter-nbextensions-configurator = "*"
 
 [dev-packages]
 
